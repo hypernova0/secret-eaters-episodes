@@ -1,0 +1,1238 @@
+{
+    "videos": [
+        {
+            "id": 0,
+            "season": 1,
+            "episode": 1,
+            "participants": ["Jill", "Stuart"],
+            "type": "youtube",
+            "url": "https://www.youtube.com/embed/bYJrC3RTtgQ",
+            "secretEatersTypes": ["Ignorant Ingester", "Mindless Muncher"],
+            "problemAreas": ["Alcohol", "Liquid Calories", "Snacking", "Fast Food / Takeout", "Massive Meals", "Restaurant Meals", "Hidden Calories"],
+            "tags": ["Female", "Male"],
+            "archtypes": [
+                {
+                    "name": "🐦 Mealtime Magpie",
+                    "description": "Rather than see food go into the trash, they clear their plate and help others do the same.",
+                    "advice": "Have a portion size and calorie count in mind before having a meal. Know when to stop eating based on your calorie goals, and, if close to going over, avoid finishing food for others."
+                },
+                {
+                    "name": "🍽 One Meal Wonder",
+                    "description": "Skips other meals, usually breakfast, and has one gigantic meal.",
+                    "advice": "If you routinely ignore hunger signals from the brain for most of the day, it becomes very easy to overeat at the times you actually sit down for a meal. Try eating smaller meals, more often, throughout the entire time you're awake."
+                }
+            ],
+            "research": {
+                "question": "Can small changes to ingrained behavior produce a meaningful difference in the amount of food we eat?",
+                "observations": "Two groups of participants were given a box of popcorn to eat while watching a movie. One group had to wear a mitten on their dominant hand, meaning they would be pulling out the popcorn with their nondominant hand. The other group did not have to wear a mitten, and could use whatever hand they preferred to retrieve the popped corn. The group of participants that wore a mitten on their dominant hand ate 23% less than the other group.",
+                "suggestions": "Even small changes to routine behavior can have a large effect on calorie intake. The suggestion is not to start wearing mittens while eating meals, but rather to become more aware of your eating habits and making small, incremental changes to the problematic areas."
+            },
+            "additionalNutritionAdvice": [
+                {
+                    "topic": "🍴 Weekend Binging food",
+                    "advice": "If you tend to eat and drink more on the weekends, try weighing yourself daily to become more aware of large weight fluctuations."
+                },
+                {
+                    "topic": "🍸 Alcohol",
+                    "advice": "The caloric content of alcohol is not the only issue, although just how many calories are contained in alcohol surprises many regular drinkers. Because alcohol lowers inhibition and doesn't have (much of) an effect on feeling full, it becomes massively easier to overeat and overindulge, which may mean unwanted weight gain in the long run."
+                }
+            ],
+            "averageCaloricUnderestimates": [
+                {
+                    "name": "Jill",
+                    "calories": 1800
+                },
+                {
+                    "name": "Stuart",
+                    "calories": 1000
+                }
+            ],
+            "tenWeekResults": [
+                {
+                    "name": "Jill",
+                    "poundsLost": 16
+                },
+                {
+                    "name": "Stuart",
+                    "poundsLost": 24
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "season": 1,
+            "episode": 2,
+            "participants": ["Belinda", "James", "Sarah", "Lewis"],
+            "type": "dailymotion",
+            "url": "https://www.dailymotion.com/embed/video/x80zdz5",
+            "secretEatersTypes": ["Ignorant Ingester", "Mindless Muncher"],
+            "problemAreas": ["Alcohol", "Liquid Calories", "Massive Meals", "Fast Food / Takeout", "Sweet Tooth", "Cheese"],
+            "tags": ["Female", "Male", "Couple"],
+            "archtypes": [
+                {
+                    "name": "🔪 Chop and Pop",
+                    "description": "These secret eaters graze and nibble when preparing meals.",
+                    "advice": "Try preparing veggies first and snack on those if you can't kick the grazing habit altogether."
+                },
+                {
+                    "name": "🍽 Plate Scraper",
+                    "description": "These secret eaters routinely clear their plate when eating.",
+                    "advice": "Eating everything on your plate, in and of itself, is not unhealthy. But most people are notoriously bad at estimating portion sizes and/or knowing how many calories are in the food they're eating, so there's a good chance that routinely clearing your plate means you will be consuming more calories than you need."
+                }
+            ],
+            "research": {
+                "question": "Do visual cues and snack proximity have an effect on snacking habits in an office environment?",
+                "observations": "Two groups of office workers were given communal bowls of candies as a reward for filling out some surveys. Both groups received the same type and same amount of candies. One group's candies were placed in clear bowls, and the bowls were placed easily in reach of each worker. The other group's candies were placed in opaque bowls and at a distance that would require the worker to get up from their chair to retrieve the candy. The group given the clear bowls easily within an arm's reach ate about six times as much as the other group.",
+                "suggestions": "If snacks are visible to you, whether you're at the office or at home, you're far more likely to indulge than if they're hidden away."
+            },
+            "additionalNutritionAdvice": [
+                {
+                    "topic": "🥃 Reduced alcohol / alcohol-free drinks",
+                    "advice": "Alcohol is very high in calories. By going for reduced alcoholic drinks, you may be able to avoid some calories. If you do this, however, make sure you don't end up drinking more reduced-alcohol drinks to compensate for the lower alcohol content!"
+                },
+                {
+                    "topic": "🍫 Workplace Snacking",
+                    "advice": "It can be difficult to avoid the temptation to snack at work, especially if there are well-stocked vending machines or free snacks available. Try bringing a set amount of healthy snacks from home in order to keep your calories in check."
+                },
+                {
+                    "topic": "🥤Diet Soda",
+                    "advice": "Compared to regular, full-sugar sodas, diet sodas are a clear winner in terms of calories. However, there is a chance that the artificial sweeteners that are in diet sodas may prompt cravings for other sweet foods. If cravings and oversnacking are an issue for you, try replacing the diet soda with tea, seltzer, or a low-calorie flavored water (typically these contain fewer than 10 calories per serving)."
+                }
+            ],
+            "averageCaloricUnderestimates": [
+                {
+                    "name": "Belinda",
+                    "calories": 2400
+                },
+                {
+                    "name": "James",
+                    "calories": 2000
+                },
+                {
+                    "name": "Sarah",
+                    "calories": 3100
+                },
+                {
+                    "name": "Lewis",
+                    "calories": 1200
+                }
+            ],
+            "tenWeekResults": [
+                {
+                    "name": "Belinda",
+                    "poundsLost": 7
+                },
+                {
+                    "name": "James",
+                    "poundsLost": 24
+                },
+                {
+                    "name": "Sarah",
+                    "poundsLost": 22
+                },
+                {
+                    "name": "Lewis",
+                    "poundsLost": 11
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "season": 1,
+            "episode": 3,
+            "participants": ["Dawn", "Mike", "Gareth"],
+            "type": "youtube",
+            "url": "https://www.youtube.com/embed/n8YmaosJMRw",
+            "secretEatersTypes": ["Ignorant Ingester", "Mindless Muncher"],
+            "problemAreas": ["Alcohol", "Liquid Calories", "Snacking", "Massive Meals", "Fast Food / Takeout"],
+            "tags": ["Female", "Male", "Couple"],
+            "archtypes": [
+                {
+                    "name": "😈 Sinful Snacker",
+                    "description": "Often skip breakfast and turn to high-sugar snacks to satisfy hunger",
+                    "advice": "Try eating a breakfast of cereal, eggs, or fruit to avoid the temptation of unhealthy snacking."
+                },
+                {
+                    "name": "🧙‍♀️ Wicked at the Weekend",
+                    "description": "These secret eaters take in significantly more calories on the weekend than during the rest of the week.",
+                    "advice": "While so-called \"cheat\" meals or cheat days are often suggested for someone trying to lose weight, it can be very easy to overindulge and hamper or undo one's progress. Long-term habits are essential to maintaining a healthy weight, and cheat meals or cheat days can be very harmful to that goal if you are not extremely careful."
+                },
+                {
+                    "name": "🏃‍♂️ On-the-go Grabber",
+                    "description": "These secret eaters make impulsive eating decisions, with many of their meals being fast food.",
+                    "advice": "Plan out your meals in advance, and take a packed lunch and any healthy snacks with you to work."
+                }
+            ],
+            "research": {
+                "question": "Does the amount we choose to eat change based on the size of the dinnerware we use?",
+                "observations": "Two groups of participants were given access to a free buffet of ice cream. One group was provided a small bowl to use, and the other was provided a significantly larger bowl. Participants given the larger bowl ate 44% more than the participants given the smaller bowl.",
+                "suggestions": "There are many subconscious factors that go into how much, what, and when we decide to eat. The more mindful you are of some of these factors, in this case how larger dinnerware can cause us to eat more, the better you'll be able to stick to healthier eating habits."
+            },
+            "additionalNutritionAdvice": [],
+            "averageCaloricUnderestimates": [
+                {
+                    "name": "Dawn",
+                    "calories": 500
+                },
+                {
+                    "name": "Mike",
+                    "calories": -1
+                },
+                {
+                    "name": "Gareth",
+                    "calories": 2000
+                }
+            ],
+            "tenWeekResults": [
+                {
+                    "name": "Dawn",
+                    "poundsLost": 28
+                },
+                {
+                    "name": "Mike",
+                    "poundsLost": 20
+                },
+                {
+                    "name": "Gareth",
+                    "poundsLost": 51
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "season": 1,
+            "episode": 4,
+            "participants": ["Sue", "Natalie", "Dave"],
+            "type": "youtube",
+            "url": "https://www.youtube.com/embed/p9anoqIXGQ0",
+            "secretEatersTypes": ["Ignorant Ingester", "Mindless Muncher"],
+            "problemAreas": ["Alcohol", "Liquid Calories", "Snacking", "Sweet Tooth", "Fast Food / Takeout", "Massive Meals"],
+            "tags": ["Female", "Male"],
+            "archtypes": [
+                {
+                    "name": "🎭 Emotional Eating",
+                    "description": "This secret eater type uses food to enhance emotions to prevent boredom, sadness, loneliness etc.",
+                    "advice": "Identify triggers, whether personal or environmental, that cause you to use food to feel better. Keep an accurate daily log and calorie count to identify problematic patterns. Try to avoid purchasing comfort food."
+                },
+                {
+                    "name": "🍵 Tea Time Treater",
+                    "description": "Indulges in a sugary snack when having tea or coffee.",
+                    "advice": "Even small amounts of extra calories can have a large effect on our weight over a long period. Make sure you are eating regular, healthy meals. If you do need to snack, choose some nuts or fruit."
+                },
+                {
+                    "name": "🍺 Calorie Swigger",
+                    "description": "These secret eaters consume a large amount of alcohol and have no idea how many calories are within that alcohol.",
+                    "advice": "Aside from cutting out alcohol altogether, try choosing a lighter or reduced alcohol version of the same drink. Make sure you don't drink more to compensate for the reduced amount of alcohol, though!" 
+                }
+            ],
+            "research": {
+                "question": "Do we make unhealthier food choices when we shop while hungry?",
+                "observations": "Two groups of participants were given a task that lasted around three hours. One group was provided nutritious snacks and water (on average, each participant ate about 370 calories), the other group received only water. Both groups were then given around $15 to select whatever they wanted to eat for lunch from a supermarket. Participants that were not provided with snacks during the group task chose a whopping 2500 calories per person on average, compared with only 700 calories per person for participants that did receive the healthy snacks. That's a massive 300% difference!",
+                "suggestions": "Make sure you don't go grocery shopping on an empty stomach; and, if you do, be mindful that your food decisions may be influenced by your hunger."
+            },
+            "additionalNutritionAdvice": [
+                {
+                    "topic": "🥠 (Westernized) Chinese Food",
+                    "advice": "Chinese food can be very high in carbohydrates and fried fats unless you choose certain menu options. This combination may taste very good, but may not provide you with a feeling of fullness relative to the amount of calories. Try avoiding fried options (fried rice, eggrolls, battered chicken) and make sure you include a healthy(ish) protein such as lean beef, non-fried chicken, or tofu."
+                }
+            ],
+            "averageCaloricUnderestimates": [
+                {
+                    "name": "Sue",
+                    "calories": -1
+                },
+                {
+                    "name": "Natalie",
+                    "calories": 1300
+                },
+                {
+                    "name": "Dave",
+                    "calories": 700
+                }
+            ],
+            "tenWeekResults": [
+                {
+                    "name": "Sue",
+                    "poundsLost": 11
+                },
+                {
+                    "name": "Natalie",
+                    "poundsLost": 12
+                },
+                {
+                    "name": "Dave",
+                    "poundsLost": 10
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "season": 1,
+            "episode": 5,
+            "participants": ["Craig", "Leanne"],
+            "type": "dailymotion",
+            "url": "https://www.dailymotion.com/embed/video/x810abk",
+            "secretEatersTypes": ["Ignorant Ingester", "Mindless Muncher"],
+            "problemAreas": ["Snacking", "Hidden Calories", "Massive Meals", "Alcohol", "Liquid Calories", "Fast Food / Takeout", "Sweet Tooth"],
+            "tags": ["Male", "Female", "Couple"],
+            "archtypes": [
+                {
+                    "name": "🏎 Pub Pitstopper",
+                    "description": "This secret eater type can't resist a meal or a good handful of bar snacks when out at the pub, in addition to a few rounds of alcohol.",
+                    "advice": "Try eating complex carbohydrates such as potatoes, brown rice, or pasta before hitting the bar. Doing this should help curb the cravings while out and about."
+                },
+                {
+                    "name": "👑 Convenience Queen",
+                    "description": "These secret eaters don't like cooking meals from scratch. They rely on ready-made meals or takeout.",
+                    "advice": "Try making large batches of healthy meals and freezing all additional servings for later in the week. Some ready-made meals can be healthy (although many aren't), so make to search out and choose these options."
+                }
+            ],
+            "research": {
+                "question": "Do we eat more when eating in larger groups?",
+                "observations": "Three groups of participants were allowed to choose from the same food menu at a restaurant. One group of participants contained six people, one group contained two people, and the last group was a single person. The group of two people ate only slightly more than the single person, about 6% more. The participants in the group of six people, however, ate nearly 70% more per person than the individual that ate by themself.",
+                "suggestions": "When we're in a large group of people, we tend to eat and drink more than when alone. Knowing this fact, we can be more aware of the times when we are among a large group of people and make sure to alter our eating habits appropriately."
+            },
+            "additionalNutritionAdvice": [
+                {
+                    "topic": "🍟 Fast Food / Takeout",
+                    "advice": "Large corporations have spent a lot of time and money perfecting the products on their menu so that they are tasty and leave you craving more. At the very least, make sure you visit their website to find the caloric information about the fast food you're eating so that you aren't going overboard."
+                },
+                {
+                    "topic": "🥗 Restaurant Pro Tips",
+                    "advice": "To avoid overeating at restaurants, here are a few tips. Try to avoid any free snacks, such as free bread and butter. Your stomach won't have an appropriate amount of time to signal its fullness before your order, so you'll end up eating more than you really need. Be careful with wine, as it can contain a significant amount of calories, certainly more than most people think. Lastly, instead of digging into a decadent dessert, go for a coffee instead."
+                }
+            ],
+            "averageCaloricUnderestimates": [
+                {
+                    "name": "Craig",
+                    "calories": 2500
+                },
+                {
+                    "name": "Leanne",
+                    "calories": 700
+                }
+            ],
+            "tenWeekResults": [
+                {
+                    "name": "Craig",
+                    "poundsLost": 22
+                },
+                {
+                    "name": "Leanne",
+                    "poundsLost": 17
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "season": 1,
+            "episode": 6,
+            "participants": ["Ronnie", "Stuart"],
+            "type": "youtube",
+            "url": "https://www.youtube.com/embed/MCQj3WQwDcM",
+            "secretEatersTypes": [
+                "Ignorant Ingester", 
+                "Mindless Muncher", 
+                "Furtive Feaster"
+            ],
+            "problemAreas": [
+                "Alcohol",
+                "Liquid Calories",
+                "Restaurant Meals",
+                "Snacking",
+                "Hidden Calories",
+                "Distracted Eating",
+                "Massive Meals"
+            ],
+            "tags": [
+                "Female",
+                "Male",
+                "Couple"
+            ],
+            "archtypes": [
+                {
+                    "name": "😈 Nutritious But Naughty",
+                    "description": "Eats healthy food, but too much of it",
+                    "advice": "Count out, weigh, and portion snacks a day in advance"
+                },
+                {
+                    "name": "😬 Stress Snacker",
+                    "description": "Eats large, solo meals",
+                    "advice": "Try exercising and deep breathing techniques to reduce stress and snacking"
+                }
+            ],
+            "research": {
+                "question": "Does the shape of a glass impact portion sizing?",
+                "observations": "Participants poured over 100% more into the shorter, wider glasses than the taller, thinner glasses.",
+                "suggestions": "Taller, thinner glasses may help prevent overindulging in calorie-filled drinks."
+            },
+            "additionalNutritionAdvice": [
+                {
+                    "topic": "🥑 Olive/Avocado/Sunflower/etc. oil",
+                    "advice": "Olive et al oils are very healthy, but very calorific. Don't pour from the bottle, fill a half tablespoon then drizzle (1/2 tablespoon is approximately 50 calories)" 
+                },
+                {
+                    "topic": "🌱 Nuts & Seeds",
+                    "advice": "Nuts and seeds are very healthy, but very calorific. Use a scale to weigh out portions before eating."
+                }
+            ],
+            "averageCaloricUnderestimates": [
+                {
+                    "name": "Ronnie",
+                    "calories": 60,
+                    "concerns": true
+                },
+                {
+                    "name": "Stuart",
+                    "calories": 100,
+                    "concerns": true
+                }
+            ],
+            "tenWeekResults": [
+                {
+                    "name": "Ronnie",
+                    "poundsLost": 22
+                },
+                {
+                    "name": "Stuart",
+                    "poundsLost": 20
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "season": 2,
+            "episode": 1,
+            "participants": ["Angela", "Ray"],
+            "type": "youtube",
+            "url": "https://www.youtube.com/embed/rAcJivQTCGM",
+            "secretEatersTypes": ["Ignorant Ingester", "Mindless Muncher", "Furtive Feaster"],
+            "problemAreas": ["Hidden Calories", "Snacking", "Liquid Calories", "Fast Food / Takeout", "Massive Meals", "Alcohol"],
+            "tags": ["Male", "Female", "Couple"],
+            "archtypes": [
+                {
+                    "name": "🥣 Serial Snacker",
+                    "description": "Eats a savory snack followed quickly by a sweet snack, an addictive cycle that causes endless eating",
+                    "advice": "Eat plain popcorn or rice cakes if wanting something savory, or fresh fruit if wanting something sweet."
+                },
+                {
+                    "name": "🍔🍔 Double Diner",
+                    "description": "Commonly goes back for second helpings, and has extra meals throughout the day.",
+                    "advice": "Eat food that keeps you fuller throughout the day. For example, swap white bread for wholegrain bread, increase intake of salad or vegetables, and if craving something extra, go for fruit or nuts."
+                }
+            ],
+            "research": {
+                "question": "Do we eat more if there is no visual evidence of what we've eaten during a meal?",
+                "observations": "Participants whose plates were cleared quickly after eating each chicken wing ate 70% more than participants whose wing bones remained on the plate after eating.",
+                "suggestions": "Having a pack of sweets? Leave the wrapper nearby. Eating a meal? Leave the debris on the plate. Drinking? Leave the empty bottles on the table. Give yourself visual clues to help you track what you've eaten. Be mindful that when dining at a restaurant, having the table constantly cleared may cause you to consume more."
+            },
+            "additionalNutritionAdvice": [
+                {
+                    "topic": "☕ Sugar in tea or coffee",
+                    "advice": "Even one or two spoonfuls of sugar in each cup can add up to a significant amount of calories over time."
+                },
+                {
+                    "topic": "🍞 High fiber food",
+                    "advice": "Eating foods high in fiber can help reduce cravings for snacks throughout the day."
+                }
+            ],
+            "averageCaloricUnderestimates": [
+                {
+                    "name": "Angela",
+                    "calories": 1000
+                },
+                {
+                    "name": "Ray",
+                    "calories": 2400
+                }
+            ],
+            "tenWeekResults": [
+                {
+                    "name": "Angela",
+                    "poundsLost": 12
+                },
+                {
+                    "name": "Ray",
+                    "poundsLost": 25
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "season": 2,
+            "episode": 2,
+            "participants": ["Paul", "Emma"],
+            "type": "youtube",
+            "url": "https://www.youtube.com/embed/cfaIwfEt_T4",
+            "secretEatersTypes": ["Ignorant Ingester", "Mindless Muncher", "Furtive Feaster"],
+            "problemAreas": ["Snacking", "Massive Meals", "Restaurant Meals", "Hidden Calories", "Cheese", "Roast Potatoes"],
+            "tags": ["Male", "Female", "Couple"],
+            "archtypes": [
+                {
+                    "name": "🌙 Night Time Nosher",
+                    "description": "Eats their main meals after 9 p.m. and stays up late into the night, which means eating even more.",
+                    "advice": "Eat at set times over an 8 hour period and go to bed early. Not getting enough sleep can lead to eating more calories on average."
+                }
+            ],
+            "research": {
+                "question": "Can the size of cutlery and plates have an impact on portion sizing?",
+                "observations": "Participants that were given extra large serving trays, serving spoons, and plates ate 16% more than participants given smaller trays, serving spoons, and plates.",
+                "suggestions": "Research suggests that when people cook in large amounts, they tend to eat more on average. Quickly put additional servings into the refrigerator or freezer to prevent overeating. Be mindful of what you're eating; we eat as much as with our eyes as we do our mouth."
+            },
+            "additionalNutritionAdvice": [
+                {
+                    "topic": "⏲ Skipping Meals",
+                    "advice": "Skipping meals can lead to overeating later on in the day."
+                }
+            ],
+            "averageCaloricUnderestimates": [
+                {
+                    "name": "Paul",
+                    "calories": 2100
+                },
+                {
+                    "name": "Emma",
+                    "calories": 2200
+                }
+            ],
+            "tenWeekResults": [
+                {
+                    "name": "Paul",
+                    "poundsLost": 10
+                },
+                {
+                    "name": "Emma",
+                    "poundsLost": 15
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "season": 2,
+            "episode": 3,
+            "participants": ["Denise", "David"],
+            "type": "youtube",
+            "url": "https://www.youtube.com/embed/OXeoO-FPHyw",
+            "secretEatersTypes": ["Ignorant Ingester"],
+            "problemAreas": ["Massive Meals", "Distracted Eating", "Cheese"],
+            "tags": ["Male", "Female", "Couple", "Gastric Band"],
+            "archtypes": [
+                {
+                    "name": "🍽 Plate Clearer",
+                    "description": "Always clears every last morsel on the plate, no matter the serving size.",
+                    "advice": "Limit what you put on your plate - use proper portion sizes. Use a smaller plate - less room for food leads to less overeating."
+                },
+                {
+                    "name": "🧙‍♀️ Saucy Sorceress",
+                    "description": "Cheesy sauces make even the healthiest dishes fattening and full of calories.",
+                    "advice": "Opt for a tomato-based sauce without cream instead."
+                }
+            ],
+            "research": {
+                "question": "Do we consume more if we eat while distracted?",
+                "observations": "One group of participants was given snacks while watching a television show, and the other group of participants was given the explicit task of reviewing the snacks they were eating. The group distracted with the television show ate, on average, 25% more calories than the group reviewing the snacks.",
+                "suggestions": "Being mindful of what you're eating can prevent overeating and unnecessary weight gain. If you do eat in front of a television or computer, try portioning out exactly the amount you are going to eat before sitting down."
+            },
+            "additionalNutritionAdvice": [
+                {
+                    "topic": "🎀 Gastric Band Rules",
+                    "advice": "Eat three small, regular meals based on healthy, solid food. Chew food thoroughly to prevent blockages, which can cause pain or sickness. Avoid drinking before and up to an hour after your meal; liquid causes the food to pass through quicker which makes it harder to listen to the body signaling fullness. Don't moisten or blend food in order for it to pass through quicker."
+                },
+                {
+                    "topic": "🧀 Low/reduced fat foods",
+                    "advice": "Just because you choose low fat foods doesn't mean you should eat larger portions of those foods."
+                }
+            ],
+            "averageCaloricUnderestimates": [
+                {
+                    "name": "Denise",
+                    "calories": 0,
+                    "concerns": true
+                },
+                {
+                    "name": "David",
+                    "calories": 0,
+                    "concerns": true
+                }
+            ],
+            "tenWeekResults": [
+                {
+                    "name": "Denise",
+                    "poundsLost": 16
+                },
+                {
+                    "name": "David",
+                    "poundsLost": 15
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "season": 2,
+            "episode": 4,
+            "participants": ["Lauren", "Stephanie"],
+            "type": "youtube",
+            "url": "https://www.youtube.com/embed/LZEuA9O_R3o",
+            "secretEatersTypes": ["Ignorant Ingester", "Mindless Muncher"],
+            "problemAreas": ["Alcohol", "Liquid Calories", "Snacking", "Fast Food / Takeout", "Restaurant Meals", "Sweet Tooth", "Cheese"],
+            "tags": ["Female"],
+            "archtypes": [
+                {
+                    "name": "🍟 Junk Food Junkie",
+                    "description": "Often eats fast food and convenience food due to a busy lifestyle",
+                    "advice": "Plan your meals in advice. Choose high fiber foods, which help keep you feeling full for longer."
+                },
+                {
+                    "name": "🍷 Social Sipper",
+                    "description": "Often drinks alcohol on a regular basis without taking it to the extreme.",
+                    "advice": "Dilute your wine and make it a spritzer. Avoid salty bar snacks, as they not only add calories, but make you thirsty. Prepare a healthy snack for your return home before you go out."
+                }
+            ],
+            "research": {
+                "question": "If you're forced to stop and think while snacking, will you eat less?",
+                "observations": "Participants in both groups were given 100g of chips; participants in one group each received a single bag of chips, while participants in the second group each received four 25g bags of chips. Participants given a single large bag ate 60% more on average than the participants given four small bags.",
+                "suggestions": "Avoid larger, family-size food containers unless you know for certain the contents will be shared equally among several people. Try to portion out food rather than eating directly from the container. Opt for items that are individually packaged, as your mind will have more of a chance to think whether or not you need that next serving."
+            },
+            "additionalNutritionAdvice": [],
+            "averageCaloricUnderestimates": [
+                {
+                    "name": "Lauren",
+                    "calories": 1700
+                },
+                {
+                    "name": "Stephanie",
+                    "calories": 900
+                }
+            ],
+            "tenWeekResults": [
+                {
+                    "name": "Lauren",
+                    "poundsLost": 9
+                },
+                {
+                    "name": "Stephanie",
+                    "poundsLost": 6
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "season": 2,
+            "episode": 5,
+            "participants": ["Hegel", "Mitul"],
+            "type": "youtube",
+            "url": "https://www.youtube.com/embed/hMvlGfBDAVM",
+            "secretEatersTypes": ["Ignorant Ingester", "Mindless Muncher"],
+            "problemAreas": ["Hidden Calories", "Snacking", "Fast Food / Takeout", "Cheese"],
+            "tags": ["Female", "Male", "Couple"],
+            "archtypes": [
+                {
+                    "name": "🙋‍♀️ Confused Calorista",
+                    "description": "Relies on others to prepare food for them and isn't aware of the nutritional value of the food they're receiving.",
+                    "advice": "Find the nutritional information, at minimum the amount of calories, for each meal. Make sure your meals are full of fruits and vegetables."
+                },
+                {
+                    "name": "👾 Mindless Muncher",
+                    "description": "Eats what's in front of them without thinking whether they actually want it.",
+                    "advice": "Stop buying salty or sugary foods to avoid the tempation. Eat foods high in fiber to stay fuller for longer."
+                }
+            ],
+            "research": {
+                "question": "If food is placed on the table in front of us as opposed to out of sight and out of reach, will we consume more?",
+                "observations": "Participants from one group had all the food placed on the table in front of them, easily within arm's reach. Participants from the other group had all the food placed in an adjoining room, requiring these participants to get up from the table for any additional servings. Participants with the food easily within arm's reach ate 30% more than the other group of participants.",
+                "suggestions": "Place food out of sight to keep it out of mind. Keep additional servings in the kitchen instead of placing them directly on the table."
+            },
+            "additionalNutritionAdvice": [
+                {
+                    "topic": "🥑 \"Healthy\" Fats",
+                    "advice": "Some foods that are high in fat, like olive oil or avocados, do contain healthy fats. However, each gram of fat contains 9 calories, so meals containing a lot of fat, even if they are healthy fats, can still be very high in calories and lead to unwanted weight gain." 
+                }
+            ],
+            "averageCaloricUnderestimates": [
+                {
+                    "name": "Hegel",
+                    "calories": 2900
+                },
+                {
+                    "name": "Mitul",
+                    "calories": 2700
+                }
+            ],
+            "tenWeekResults": [
+                {
+                    "name": "Hegel",
+                    "poundsLost": 15
+                },
+                {
+                    "name": "Mitul",
+                    "poundsLost": 10
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "season": 2,
+            "episode": 6,
+            "participants": ["Daryl", "Kate"],
+            "type": "youtube",
+            "url": "https://www.youtube.com/embed/TlnB4PH0SvA",
+            "secretEatersTypes": ["Ignorant Ingester", "Mindless Muncher"],
+            "problemAreas": ["Alcohol", "Liquid Calories", "Snacking", "Fast Food / Takeout", "Massive Meals", "Sweet Tooth"],
+            "tags": ["Male", "Female"],
+            "archtypes": [
+                {
+                    "name": "🚚 Dashboard Diner",
+                    "description": "Constantly grabs food while on the go.",
+                    "advice": "Plan your meals in advance. Carry fruit or nuts if the tempation to snack arises. Eat high fiber foods to feel fuller for longer."
+                },
+                {
+                    "name": "🍕 Emotional Eater",
+                    "description": "Eats food to make themselves feel better.",
+                    "advice": "Snack on fruits and vegetables and try limiting purchases of salty or sweet snack items. Try to recognize and limit common high-calorie comfort foods that you use to feel better. Keeping an accurate food diary may help to prevent overindulging."
+                }
+            ],
+            "research": {
+                "question": "Does reduced contrast between our food and our plates cause us to choose larger portion sizes?",
+                "observations": "Participants were served pasta with a bright red tomato sauce. One group was given white plates (high contrast between food and plates) and one group was given red plates (low contrast between food and plates). Participants then served themselves as much pasta as they wanted. On average, participants with the red plates served themselves 60% more than the participants given white plates.",
+                "suggestions": "Be mindful that even a small detail like the contrast between the food you eat and the plates you use can have an effect on how much you eat."
+            },
+            "additionalNutritionAdvice": [
+                {
+                    "topic": "🍨 Double / Heavy Whipping Cream",
+                    "advice": "Double cream, sometimes referred to as heavy whipping cream, is incredibly calorific. Pay very close attention to the serving size and calorie count per serving."
+                },
+                {
+                    "topic": "🍻 Liquid Calories (Alcohol, Soda, Juice, etc.)",
+                    "advice": "People wanting to maintain a healthy weight should be very mindful about any calories contained in the liquids they're consuming. Liquid calories don't give us the same feeling of fullness that solid foods do, which makes it every easy to take in a lot of calories. Alcohol especially can very calorific."
+                }
+            ],
+            "averageCaloricUnderestimates": [
+                {
+                    "name": "Daryl",
+                    "calories": 2500
+                },
+                {
+                    "name": "Kate",
+                    "calories": 2300
+                }
+            ],
+            "tenWeekResults": [
+                {
+                    "name": "Daryl",
+                    "poundsLost": 18
+                },
+                {
+                    "name": "Kate",
+                    "poundsLost": 14
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "season": 2,
+            "episode": 7,
+            "participants": ["Matthew", "Emma"],
+            "type": "youtube",
+            "url": "https://www.youtube.com/embed/jOpRLonvoCM",
+            "secretEatersTypes": ["Ignorant Ingester"],
+            "problemAreas": ["Alcohol", "Liquid Calories", "Snacking", "Sweet Tooth", "Massive Meals", "Hidden Calories"],
+            "tags": ["Female", "Male"],
+            "archtypes": [
+                {
+                    "name": "🚫 Boycotting Binger",
+                    "description": "Skips many meals during the week, but overindulges on the weekend.",
+                    "advice": "Stick to a daily calorie count and a constant number of meals per day. "
+                },
+                {
+                    "name": "🚲 Sporty Scoffer",
+                    "description": "Exercises often, but often eats large meals directly afterwards.",
+                    "advice": "Eat a light meal before exercise. Drink plenty of water before, during, and after exercise to prevent reaching for a meal instead. It is common to mistake feelings of thirst for feelings of hunger."
+                }
+            ],
+            "research": {
+                "question": "Does increased variety among food choices prompt us to eat more?",
+                "observations": "Participants were given a large amount of jelly beans that they could eat as much as they want. One group was given only a single color of jelly beans, while the other group was given a variety of colors they could choose from.",
+                "suggestions": "Participants given a variety of jelly bean colors ate 800%--not a typo--more than participants given a single color."
+            },
+            "additionalNutritionAdvice": [
+                {
+                    "topic": "🌵 Very low calorie diets",
+                    "advice": "Vastly restricting calorie intake by skipping meals or not eating for long periods of time can cause the body to go into \"survival mode\", which will cause it to burn fewer calories by itself and lead to decreased or no weight loss. Make sure to use a Total Daily Energy Expenditure (TDEE) calculator to get a rough approximation of how many calories your body is using each day based on your gender, height, current weight, and activity levels, and try not to go 500-1000 calories below that number."
+                }
+            ],
+            "averageCaloricUnderestimates": [
+                {
+                    "name": "Matthew",
+                    "calories": 500
+                },
+                {
+                    "name": "Emma",
+                    "calories": 1000
+                }
+            ],
+            "tenWeekResults": [
+                {
+                    "name": "Matthew",
+                    "poundsLost": 15
+                },
+                {
+                    "name": "Emma",
+                    "poundsLost": 14
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "season": 2,
+            "episode": 8,
+            "participants": ["Prescious", "Florence"],
+            "type": "youtube",
+            "url": "https://www.youtube.com/embed/MuCIIkFIdtg",
+            "secretEatersTypes": ["Ignorant Ingester", "Mindless Muncher"],
+            "problemAreas": ["Snacking", "Massive Meals", "Fast Food / Takeout", "Sweet Tooth"],
+            "tags": ["Female"],
+            "archtypes": [
+                {
+                    "name": "🍗 Guilt-Free Grazer",
+                    "description": "While these secret eaters exercise and cook meals from scratch, they also overindulge in sweet treats and takeout.",
+                    "advice": "Keep a food diary. Plan meals in advance. Keep healthy snacks in the fridge to nibble on between meals."
+                }
+            ],
+            "research": {
+                "question": "Do people eat more if they're told their food is \"low-fat\"?",
+                "observations": "Participants in two groups were presented with the exact same food for snacks. One group's snacks were labeled as \"healthy\" and \"low-fat\", while the other group's snacks were labeled as \"indulgent\" and \"decadent\". Participants in the group with the \"healthy\" labels ate 15-40% more than the participants in the other group.",
+                "suggestions": "Be mindful of the fact that most low-fat or reduced fat options are only on average 15% lower in calories than the full-fat options. Avoid consuming additional amounts of the low-fat option to compensate for what you may think is a healthier option."
+            },
+            "additionalNutritionAdvice": [],
+            "averageCaloricUnderestimates": [
+                {
+                    "name": "Prescious",
+                    "calories": 2200
+                },
+                {
+                    "name": "Florence",
+                    "calories": 1200
+                }
+            ],
+            "tenWeekResults": [
+                {
+                    "name": "Prescious",
+                    "poundsLost": 9
+                },
+                {
+                    "name": "Florence",
+                    "poundsLost": 19
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "season": 3,
+            "episode": 1,
+            "participants": ["Faye", "Laura"],
+            "type": "youtube",
+            "url": "https://www.youtube.com/embed/67zLVG1uTEA",
+            "secretEatersTypes": ["Ignorant Ingester", "Mindless Muncher"],
+            "problemAreas": ["Alcohol", "Snacking", "Liquid Calories", "Sweet Tooth", "Massive Meals"],
+            "tags": ["Female"],
+            "archtypes": [
+                {
+                    "name": "🍽 Plate Clearer",
+                    "description": "Even though their body is telling them it's full, this secret eater type will finish the job.",
+                    "advice": "Be aware of portion sizes. Portions shouldn't be much larger than the size of your clenched fist. Stop eating when you feel full."
+                }
+            ],
+            "research": {
+                "question": "Does a lack of sleep have an impact on eating habits?",
+                "observations": "One group of participants was interrupted for half an hour twice in one night (at 1 a.m. and 4 a.m.), and the other group had no interruptions while sleeping. The next day, participants were then given a large variety of foods to choose from during their breakfast. Participants with the disturbed sleep ate 35% more on average than the other group of participants that had no sleep interruptions.",
+                "suggestions": "Try to get a good night's sleep. When you don't get a good night's sleep, be mindful that you may be more likely to overindulge the following day."
+            },
+            "additionalNutritionAdvice": [
+                {
+                    "topic": "🍭 Sugar Craving Alternatives",
+                    "advice": "Fruit, small amounts of dried fruit, nuts, seeds, and malt loaf."
+                },
+                {
+                    "topic": "🍺 Alcohol",
+                    "advice": "Alcohol can be very problematic for someone trying to maintain or lose weight. It is very high in calories and doesn't help make us feel full, which means it is very easy to take in a large quantity of calories if you're not careful."
+                }
+            ],
+            "averageCaloricUnderestimates": [
+                {
+                    "name": "Faye",
+                    "calories": 2700
+                },
+                {
+                    "name": "Laura",
+                    "calories": 1000
+                }
+            ],
+            "tenWeekResults": [
+                {
+                    "name": "Faye",
+                    "poundsLost": 13
+                },
+                {
+                    "name": "Laura",
+                    "poundsLost": 8
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "season": 3,
+            "episode": 2,
+            "participants": ["Helena", "Murray"],
+            "type": "youtube",
+            "url": "https://www.youtube.com/embed/aWN040T4j_w",
+            "secretEatersTypes": ["Ignorant Ingester", "Furtive Feaster"],
+            "problemAreas": ["Massive Meals", "Snacking", "Hidden Calories", "Liquid Calories","Sweet Tooth"],
+            "tags": ["Female", "Male", "Couple"],
+            "archtypes": [
+                {
+                    "name": "🍫 Sugar Snaffler",
+                    "description": "Sugar provides an instant, short burst of energy, which usually leads to wanting more throughout the day.",
+                    "advice": "Eat three meals per day and snack on fruit and nuts when necessary. Regular meals and healthy snacks should help keep the cravings at bay."
+                }
+            ],
+            "research": {
+                "question": "Do children consume healthier food options if they are more accessible?",
+                "observations": "One group of students was presented with many easily-accessible, healthy snack options as they passed through the lunch line. The other group of students were given the same snack options, but they were placed separately, about 20 feet away, from the lunch line. The group of students that had easy access to the healthy snacks ate 77% more than the group that had to go out of their way to get the snacks.",
+                "suggestions": "Try to make healthy food options more available to your children."
+            },
+            "additionalNutritionAdvice": [],
+            "averageCaloricUnderestimates": [
+                {
+                    "name": "Helena",
+                    "calories": 1160
+                },
+                {
+                    "name": "Murray",
+                    "calories": 3270
+                }
+            ],
+            "tenWeekResults": [
+                {
+                    "name": "Helena",
+                    "poundsLost": 16
+                },
+                {
+                    "name": "Murray",
+                    "poundsLost": 11
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "season": 3,
+            "episode": 3,
+            "participants": ["Kelli", "Tracey"],
+            "type": "youtube",
+            "url": "https://www.youtube.com/embed/W6siZlBSEyU",
+            "secretEatersTypes": ["Furtive Feaster", "Ignorant Ingester", "Mindless Muncher"],
+            "problemAreas": ["Sweet Tooth", "Snacking", "Fast Food / Takeout", "Massive Meals"],
+            "tags": ["Female", "Couple"],
+            "archtypes": [
+                {
+                    "name": "🦝 Sneaky Snacker",
+                    "description": "Constantly looking for something to nibble on, and doesn't always choose a healthy option.",
+                    "advice": "Choose nutrient rich snacks, such as sliced avocado on toast, pita bread with low fat hummus, or low fat yogurt with a spoonful of granola."
+                },
+                {
+                    "name": "🛠 Quick Fix Fiend",
+                    "description": "When tired or sluggish, these secret eaters grab an energy drink to wake them up.",
+                    "advice": "Ditch the energy drinks altogether and find a healthy alternative. Green tea, for example, contains 0 calories. Healthy snacks, such as wholemeal toast and hard-boiled eggs, can also provide you with more energy over a longer period of time, which should help fight off cravings for the energy drinks."
+                }
+            ],
+            "research": {
+                "question": "Do sports fans eat more if their team loses?",
+                "observations": "Two groups of sports fans were given a free lunch buffet right after a match between two rival teams. The fans of the losing team ate 66% more than the fans of the winning team.",
+                "suggestions": "Try to be mindful of comfort eating, especially if you are hoping to maintain or lose weight. Try setting a daily caloric intake goal and sticking to that number."
+            },
+            "additionalNutritionAdvice": [
+                {
+                    "topic": "⚡ Energy Drinks",
+                    "advice": "The flavoring added to energy drinks masks just how much sugar is in each serving. It can be very easy to rack up a massive amount of calories if you're not careful."
+                }
+            ],
+            "averageCaloricUnderestimates": [
+                {
+                    "name": "Kelli",
+                    "calories": 1370
+                },
+                {
+                    "name": "Tracey",
+                    "calories": 1440
+                }
+            ],
+            "tenWeekResults": [
+                {
+                    "name": "Kelli",
+                    "poundsLost": 28
+                },
+                {
+                    "name": "Tracey",
+                    "poundsLost": 15
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "season": 3,
+            "episode": 4,
+            "participants": ["Sharon", "Tracy"],
+            "type": "youtube",
+            "url": "https://www.youtube.com/embed/REuWXsDB6no",
+            "secretEatersTypes": ["Ignorant Ingester", "Mindless Muncher"],
+            "problemAreas": ["Alcohol", "Liquid Calories", "Hidden Calories", "Snacking", "Sweet Tooth"],
+            "tags": ["Female"],
+            "archtypes": [
+                {
+                    "name": "🥴 Delusional Drinker",
+                    "description": "Someone that drinks on a regular basis, but is completely unaware of the amount of calories in alcohol.",
+                    "advice": "Alcohol contains 7 calories per gram, which is just less than fat (9 kcal/g), and more than both carbohydrates and protein (both 4 kcal/g). Use an alcohol measure to avoid overpouring. When counting calories, make sure you include the calories in any alcoholic beverages."
+                }
+            ],
+            "research": {
+                "question": "Does eating food quickly cause you to eat more overall?",
+                "observations": "Participants from two groups were given the same amount of food to eat; however, one group was given all of the food up front, and the other group was given half the portion up front, and then offered the rest after 20 minutes had passed. Participants that were able to take as much as they wanted without having to wait 20 minutes ate 10% more on average than the group that had to wait.",
+                "suggestions": "Give yourself time to properly register how much you've eaten. If you do plan on taking a second helping, try waiting for a bit and see if you're still as hungry."
+            },
+            "additionalNutritionAdvice": [
+                {
+                    "topic": "🌱 Tahini, Salad Dressing, Mayo etc.",
+                    "advice": "Sauces and dressings can be incredibly high in fat, and the amount of calories per serving, and how small serving sizes are for these food items, can be surprising to the unaware. Be careful to check the nutritional information for these items and portion accordingly."
+                }
+            ],
+            "averageCaloricUnderestimates": [
+                {
+                    "name": "Sharon",
+                    "calories": 1000
+                },
+                {
+                    "name": "Tracy",
+                    "calories": 1100
+                }
+            ],
+            "tenWeekResults": [
+                {
+                    "name": "Sharon",
+                    "poundsLost": 13
+                },
+                {
+                    "name": "Tracy",
+                    "poundsLost": 15
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "season": 3,
+            "episode": 5,
+            "participants": ["Lorraine", "Cori"],
+            "type": "youtube",
+            "url": "https://www.youtube.com/embed/nuJG15mXCkg",
+            "secretEatersTypes": ["Mindless Muncher", "Ignorant Ingester"],
+            "problemAreas": ["Alcohol", "Snacking", "Sweet Tooth", "Fast Food / Takeout", "Liquid Calories", "Distracted Eating", "Massive Meals", "Restaurant Meals"],
+            "tags": ["Female"],
+            "archtypes": [
+                {
+                    "name": "📺 Distracted Diner",
+                    "description": "Eats most of their meals on their laps. These secret eaters focus on just about anything except for what they're eating.",
+                    "advice": "Slow down and savor your food. This will give your brain and stomach time to communicate with one another and you'll end up eating less. "
+                }
+            ],
+            "research": {
+                "question": "Do families that eat food around a table snack less right after the meal than families that eat in front of a television?",
+                "observations": "One family ate their dinner around the table. The other family ate their dinner in front of a television. Both families were then instructed to play a board game and given the same amount of snacks to choose from. The family that ate dinner in front of the television consumed 98% more of the snacks than the family that ate dinner at the table.",
+                "suggestions": "Eating family meals around a dinner table may lead to feeling fuller, longer, and may help reduce cravings for snacks."
+            },
+            "additionalNutritionAdvice": [],
+            "averageCaloricUnderestimates": [
+                {
+                    "name": "Lorraine",
+                    "calories": 910
+                },
+                {
+                    "name": "Cori",
+                    "calories": 1040
+                }
+            ],
+            "tenWeekResults": [
+                {
+                    "name": "Lorraine",
+                    "poundsLost": 14
+                },
+                {
+                    "name": "Cori",
+                    "poundsLost": 11
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "season": 3,
+            "episode": 6,
+            "participants": ["Glyn", "Louise", "Sue"],
+            "type": "youtube",
+            "url": "https://www.youtube.com/embed/NFDj9iRDtN4",
+            "secretEatersTypes": ["Ignorant Ingester"],
+            "problemAreas": ["Alcohol", "Liquid Calories", "Restaurant Meals", "Massive Meals", "Hidden Calories"],
+            "tags": ["Male", "Female", "Couple"],
+            "archtypes": [
+                {
+                    "name": "🛢 Oil Tycoon",
+                    "description": "Uses a lot of oils, such as olive oil, when cooking or preparing food.",
+                    "advice": "Not knowing just how calorific olive oil is is a common theme throughout this show. One tablespoon of olive oil is approximately 100 calories, so if you want to know for sure how many calories you're adding to your meals, try measuring out the quantities exactly rather than pouring straight from the bottle."
+                }
+            ],
+            "research": {
+                "question": "Does drinking a moderate amount of alcohol make you drink more?",
+                "observations": "Two groups of participants took part in a wine tasting party. One group (unbeknownst to them) was served non-alcoholic wine, and the other group was given alcoholic wine. Both groups were given a buffet-style meal where they could eat as much as they wanted. The group that drank alcoholic wine ate 36% more food on average than the group that drank non-alcoholic wine.",
+                "suggestions": "Next time you have alcohol, be mindful that you may overeat. Try planning on what you'll eat before you start drinking in order to avoid unwanted calories."
+            },
+            "additionalNutritionAdvice": [
+                {
+                    "topic": "🥑 Olive/Avocado/Sunflower/etc. oil",
+                    "advice": "Olive et al oils are very healthy, but very calorific. Don't pour from the bottle, fill a half tablespoon then drizzle (1/2 tablespoon is approximately 50 calories)" 
+                }
+            ],
+            "averageCaloricUnderestimates": [
+                {
+                    "name": "Glyn",
+                    "calories": 900
+                },
+                {
+                    "name": "Louise",
+                    "calories": 1000
+                },
+                {
+                    "name": "Sue",
+                    "calories": 500
+                }
+            ],
+            "tenWeekResults": [
+                {
+                    "name": "Glyn",
+                    "poundsLost": 22
+                },
+                {
+                    "name": "Louise",
+                    "poundsLost": 12
+                },
+                {
+                    "name": "Sue",
+                    "poundsLost": 8
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "season": 3,
+            "episode": 7,
+            "participants": ["Michael", "Katie"],
+            "type": "youtube",
+            "url": "https://www.youtube.com/embed/bS3i3IojDyI",
+            "secretEatersTypes": ["Ignorant Ingester"],
+            "problemAreas": ["Restaurant Meals", "Fast Food / Takeout", "Liquid Calories", "Massive Meals"],
+            "tags": ["Female", "Male", "Couple"],
+            "archtypes": [
+                {
+                    "name": "💬 Social Scoffer",
+                    "description": "Enjoys eating out with friends",
+                    "advice": "Select foods with healthier cooking techniques (steaming, grilling, poaching, stir frying), banish the all-you-can-eat bread basket, and use a free calorie counting app on your phone to keep track of how much you've consuming each day."
+                },
+                {
+                    "name": "🧃 Juice Junkie",
+                    "description": "Consumes a large amount of fruit juice.",
+                    "advice": "Add 1/3 water to 2/3 juice to reduce the sugar content. Drink sugar free flavored water. Eat fruit instead of drinking it. Solid fruit contains fiber that will help you stay fuller for longer."
+                }
+            ],
+            "research": {
+                "question": "Does the environment we eat in have an effect on how much we eat?",
+                "observations": "One group of participants were served a meal in a relaxed, low-light, quiet environment and the other group was served a meal in a high-paced, bright, noisy environment. The group that ate their meal in the high-paced, bright, noisy environment ate 46% more than the group in the more relaxed environment.",
+                "suggestions": "Be aware of the difference the environment may have on your eating. If possible, choose a relaxed environment when eating your meals."
+            },
+            "additionalNutritionAdvice": [
+                {
+                    "topic": "🥤 Fruit Juice",
+                    "advice": "Fruit juice typically contains a ton of sugar and thus a large amount of calories."
+                }
+            ],
+            "averageCaloricUnderestimates": [
+                {
+                    "name": "Michael",
+                    "calories": 1600
+                },
+                {
+                    "name": "Katie",
+                    "calories": 1300
+                }
+            ],
+            "tenWeekResults": [
+                {
+                    "name": "Michael",
+                    "poundsLost": 12
+                },
+                {
+                    "name": "Katie",
+                    "poundsLost": 13
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "season": 3,
+            "episode": 8,
+            "participants": ["Allan", "Emma"],
+            "type": "youtube",
+            "url": "https://www.youtube.com/embed/7A06jw1lD0s",
+            "secretEatersTypes": ["Ignorant Ingester", "Mindless Muncher"],
+            "problemAreas": ["Alcohol", "Liquid Calories", "Fast Food / Takeout", "Massive Meals", "Restaurant Meals", "Distracted Eating"],
+            "tags": ["Male", "Female", "Couple"],
+            "archtypes": [
+                {
+                    "name": "🧈 Furtive Fat Fan",
+                    "description": "Enjoys meals with large amounts of fat without knowing the consequences",
+                    "advice": "Pre-prepared foods can contain high amounts of fat. Use leaner means. Always read food labels so you know how much fat and how many calories you're consuming."
+                },
+                {
+                    "name": "🥣 Breakfast Skipper",
+                    "description": "Skips breakfast either out of convenience or in order to eat larger meals later in the day",
+                    "advice": "Introduce a protein-rich breakfast, it will keep you fuller for longer, and help you avoid snacking. Avoid a sugary breakfast, for example sugary cereal, as that will cause an increase in snacking and cravings."
+                }
+            ],
+            "research": {
+                "question": "Do you make healthier choices when you pre-plan or pre-order your lunch, as opposed to making the lunch decision just when you're about to eat?",
+                "observations": "Participants split into two groups were both served the same breakfast. One group was then asked to pre-order their lunch given a preset menu, while the other group made their lunch decisions from the same menu right when they were about to eat. The group that chose what to eat while walking through the cafeteria ate, on average, 68% more than the group that pre-ordered their lunch.",
+                "suggestions": "If you pre-think, pre-pack, or pre-order your food, you will likely eat significant less than otherwise."
+            },
+            "additionalNutritionAdvice": [
+                {
+                    "topic": "🥤 Sugary soda/cola",
+                    "advice": "The combination of sugar, flavoring, and carbonation can make these drinks very addicting and easy to consume large quantities. Be aware that drinking these regularly throughout the day can lead to significant weight gain over time."
+                }
+            ],
+            "averageCaloricUnderestimates": [
+                {
+                    "name": "Allan",
+                    "calories": 400
+                },
+                {
+                    "name": "Emma",
+                    "calories": 500
+                }
+            ],
+            "tenWeekResults": [
+                {
+                    "name": "Allan",
+                    "poundsLost": 8
+                },
+                {
+                    "name": "Emma",
+                    "poundsLost": 8
+                }
+            ]                                                                               
+        }
+    ]
+}
